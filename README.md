@@ -1,2 +1,2 @@
-# my-portfolio
+# My Portfolio
 Hey guys! Welcome to my Portfolio!
